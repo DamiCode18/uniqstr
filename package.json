@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "types": "dist/index.d.ts",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
     "start": "node dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Damicode",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.10.4"
