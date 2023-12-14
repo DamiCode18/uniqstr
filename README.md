@@ -1,7 +1,7 @@
 # uniqstr
 
 [![npm version](https://badge.fury.io/js/uniqstr.svg)](https://www.npmjs.com/package/uniqstr)
-[![GitHub license](https://img.shields.io/github/license/damicode18/uniqstr)](https://github.com/damicode18/uniqstr/blob/main/LICENSE)
+<!-- [![GitHub license](https://img.shields.io/github/license/damicode18/uniqstr)](https://github.com/damicode18/uniqstr/blob/main/LICENSE) -->
 
 `uniqstr` is a Node.js package that provides a function for generating unique random strings based on the SHA-256 hash of a given URL.
 
